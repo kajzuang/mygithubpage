@@ -1,1 +1,2 @@
-# mygithubpage
+#http://aidenkim.me. 
+mygithubpage
